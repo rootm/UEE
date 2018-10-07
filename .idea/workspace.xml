@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5e109dc-1384-4327-92b3-071cdafb1215" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-65290841">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="59" />
+          <entry key="html" value="132" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="59" />
+          <entry key="HTML" value="132" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/billing-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book-description.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cart-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/confirm-order.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gift-vouchers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="152" column="22" lean-forward="true" selection-start-line="152" selection-start-column="22" selection-end-line="152" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order-status.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sarasavi-publications.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shipping-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/signin-join.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stationary-items.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>book-name</find>
+      <find>book-rating</find>
+      <find>author-image</find>
+      <find>author-book</find>
+      <find>footer-social-wrap</find>
+      <find>icon-fb</find>
+      <find>footer-wrap</find>
+      <find>footer-left-content</find>
+      <find>hide-on-mobile</find>
+      <find>footer-links</find>
+      <find>footer-right-content</find>
+      <find>payment-methods</find>
+      <find>lazy</find>
+      <find>loaded</find>
+      <find>small-print</find>
+      <find>text</find>
+      <find>icon-bd</find>
+      <find>footer-copyright</find>
+      <find>next-btn</find>
+      <find>footer</find>
+      <find>fab</find>
+      <find>facebook</find>
+      <find>bttn</find>
+      <find>footer-head</find>
+      <find>autho</find>
+      <find>media</find>
+      <find>&lt;div align=&quot;center&quot; class=&quot;cart btn&quot;&gt;Buy Now&lt;/div&gt;</find>
+      <find>\&lt;section\&gt;\n    \&lt;div class\=\&quot;container\-fluid\&quot; style\=\&quot;background\-color\:white\;\&quot;\&gt;\n      \&lt;div class\=\&quot;row\&quot;\&gt;\n        \&lt;div class\=\&quot;col\-md\-12 mt\-5 pb\-5 border\-bottom\&quot;\&gt;\n          \&lt;div class\=\&quot;social\-btns\&quot;\&gt;\n            \&lt;a class\=\&quot;bttn facebook\&quot; href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fab fa\-facebook\-f\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;bttn twitter\&quot; href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fab fa\-twitter\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;bttn google\&quot; href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fab fa\-google\-plus\-g\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;bttn skype\&quot; href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fab fa\-skype\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n          \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n      \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n  \&lt;\/section\&gt;\n\n  \&lt;\!\-\- Footer \-\-\&gt;\n\&lt;footer class\=\&quot;page\-footer font\-small blue pt\-4\&quot;\&gt;\n\n   \&lt;\!\-\- Footer Links \-\-\&gt;\n   \&lt;div class\=\&quot;container\-fluid text\-center text\-md\-left\&quot;\&gt;\n\n     \&lt;\!\-\- Grid row \-\-\&gt;\n     \&lt;div class\=\&quot;row\&quot;\&gt;\n       \&lt;\!\-\- Grid column \-\-\&gt;\n       \&lt;div class\=\&quot;col\-md\-2 mt\-md\-0 mt\-3\&quot;\&gt;\n         \&lt;\!\-\- Content \-\-\&gt;\n         \&lt;h5 class\=\&quot;text\-uppercase\&quot;\&gt;Explore\&lt;\/h5\&gt;\n         \&lt;div class\=\&quot;border\-bottom pb\-2\&quot;\&gt;\n           \&lt;a href\=\&quot;\#\&quot; class\=\&quot;text\-warning\&quot;\&gt;About Us\&lt;\/a\&gt;\n         \&lt;\/div\&gt;\n       \&lt;\/div\&gt;\n       \&lt;\!\-\- Grid column \-\-\&gt;\n       \&lt;hr class\=\&quot;clearfix w\-100 d\-md\-none pb\-3\&quot;\&gt;\n       \&lt;\!\-\- Grid column \-\-\&gt;\n       \&lt;div class\=\&quot;col\-md\-2 mt\-md\-0 mt\-3\&quot;\&gt;\n         \&lt;\!\-\- Content \-\-\&gt;\n         \&lt;h5 class\=\&quot;text\-uppercase\&quot;\&gt;How Can We Help \?\&lt;\/h5\&gt;\n         \&lt;div class\=\&quot;border\-bottom pb\-2\&quot;\&gt;\n           \&lt;a href\=\&quot;\#\&quot; class\=\&quot;text\-warning\&quot;\&gt;Help\&lt;\/a\&gt;\n         \&lt;\/div\&gt;\n         \&lt;div class\=\&quot;border\-bottom pt\-2 pb\-2\&quot;\&gt;\n           \&lt;a href\=\&quot;\#\&quot; class\=\&quot;text\-warning\&quot;\&gt;Contact Us\&lt;\/a\&gt;\n         \&lt;\/div\&gt;\n       \&lt;\/div\&gt;\n\n       \&lt;\!\-\- Grid column \-\-\&gt;\n       \&lt;div class\=\&quot;col\-md\-2 mt\-md\-0 mt\-3\&quot;\&gt;\n         \&lt;\!\-\- Content \-\-\&gt;\n         \&lt;h5 class\=\&quot;text\-uppercase\&quot;\&gt;Join Us\&lt;\/h5\&gt;\n         \&lt;div class\=\&quot;border\-bottom pb\-2\&quot;\&gt;\n           \&lt;a href\=\&quot;\#\&quot; class\=\&quot;text\-warning\&quot;\&gt;Jobs\&lt;\/a\&gt;\n         \&lt;\/div\&gt;\n       \&lt;\/div\&gt;\n\n       \&lt;\!\-\- Grid column \-\-\&gt;\n       \&lt;div class\=\&quot;col\-md\-2 mt\-md\-0 mt\-3\&quot;\&gt;\n         \&lt;\!\-\- Content \-\-\&gt;\n         \&lt;h5 class\=\&quot;text\-uppercase\&quot;\&gt;Important Stuff\&lt;\/h5\&gt;\n         \&lt;div class\=\&quot;border\-bottom pb\-2\&quot;\&gt;\n           \&lt;a href\=\&quot;\#\&quot; class\=\&quot;text\-warning\&quot;\&gt;Privacy Policy\&lt;\/a\&gt;\n         \&lt;\/div\&gt;\n         \&lt;div class\=\&quot;border\-bottom pt\-2 pb\-2\&quot;\&gt;\n           \&lt;a href\=\&quot;\#\&quot; class\=\&quot;text\-warning\&quot;\&gt;Terms \&amp; Conditions\&lt;\/a\&gt;\n         \&lt;\/div\&gt;\n       \&lt;\/div\&gt;\n         \&lt;\!\-\- Grid column \-\-\&gt;\n\n         \&lt;\!\-\- Grid column \-\-\&gt;\n     \&lt;div class\=\&quot;col\-md\-4 mb\-md\-0 mb\-3\&quot;\&gt;\n       \&lt;h5 class\=\&quot;text\-uppercase\&quot;\&gt;We Accept These Payment Methods\&lt;\/h5\&gt;\n       \&lt;img src\=\&quot;images\/payment\-options\.png\&quot; alt\=\&quot;payment options\&quot;\&gt;\n     \&lt;\/div\&gt;\n\n     \&lt;\!\-\- Grid row \-\-\&gt;\n\n   \&lt;\/div\&gt;\n   \&lt;\!\-\- Footer Links \-\-\&gt;\n\n   \&lt;\!\-\- Copyright \-\-\&gt;\n   \&lt;div class\=\&quot;footer\-copyright text\-center py\-3 border\-top\&quot;\&gt;\© 2018 Copyright \: Sarasavi Bookshop \(PVT\) Ltd\n   \&lt;\/div\&gt;\n   \&lt;\!\-\- Copyright \-\-\&gt;\n\n \&lt;\/footer\&gt;</find>
+      <find>&lt;head&gt;     &lt;meta charset=&quot;utf-8&quot;&gt;     &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;     &lt;title&gt;&lt;/title&gt;      &lt;!-- Bootstrap --&gt;     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css&quot; integrity=&quot;sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4&quot; crossorigin=&quot;anonymous&quot;&gt;     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://use.fontawesome.com/releases/v5.3.1/css/all.css&quot; integrity=&quot;sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU&quot; crossorigin=&quot;anonymous&quot;&gt;     &lt;link rel=&quot;stylesheet&quot; href=&quot;css/style.css&quot;&gt;     &lt;!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --&gt;     &lt;!-- WARNING: Respond.js doesn't work if you view the page via file:// --&gt;     &lt;!--[if lt IE 9]&gt;       &lt;script src=&quot;https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js&quot;&gt;&lt;/script&gt;       &lt;script src=&quot;https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js&quot;&gt;&lt;/script&gt;     &lt;![endif]--&gt;   &lt;/head&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Stars above</replace>
+      <replace>&lt;section&gt;     &lt;div class=&quot;container-fluid&quot; style=&quot;background-color:white;&quot;&gt;         &lt;div class=&quot;row&quot;&gt;             &lt;div class=&quot;col-md-12 social-container border-bottom&quot;&gt;                 &lt;div class=&quot;social-btns&quot;&gt;                     &lt;a class=&quot;bttn facebook&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook-f&quot; style=&quot;font-size:25px;&quot;&gt;&lt;/i&gt;&lt;/a&gt;                     &lt;a class=&quot;bttn twitter&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot; style=&quot;font-size:25px;&quot;&gt;&lt;/i&gt;&lt;/a&gt;                     &lt;a class=&quot;bttn google&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot; style=&quot;font-size:25px;&quot;&gt;&lt;/i&gt;&lt;/a&gt;                     &lt;a class=&quot;bttn skype&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-skype&quot; style=&quot;font-size:25px;&quot;&gt;&lt;/i&gt;&lt;/a&gt;                  &lt;/div&gt;             &lt;/div&gt;         &lt;/div&gt;     &lt;/div&gt; &lt;/section&gt;  &lt;!-- Footer --&gt; &lt;footer class=&quot;page-footer font-small blue pt-4&quot;&gt;      &lt;!-- Footer Links --&gt;     &lt;div class=&quot;container-fluid text-center text-md-left&quot;&gt;          &lt;!-- Grid row --&gt;         &lt;div class=&quot;row&quot;&gt;             &lt;!-- Grid column --&gt;             &lt;div class=&quot;col-md-2 mt-md-0 mt-3 footer-head&quot;&gt;                 &lt;!-- Content --&gt;                 &lt;h5 class=&quot;text-uppercase footer-title&quot;&gt;Explore&lt;/h5&gt;                 &lt;div class=&quot; pb-2&quot;&gt;                     &lt;a href=&quot;#&quot; class=&quot;text-white footer-link&quot;&gt;About Us&lt;/a&gt;                 &lt;/div&gt;             &lt;/div&gt;             &lt;!-- Grid column --&gt;             &lt;!--&lt;hr class=&quot;clearfix w-100 d-md-none pb-1&quot;&gt;--&gt;             &lt;!-- Grid column --&gt;             &lt;div class=&quot;col-md-3 mt-md-0 mt-3 footer-head&quot;&gt;                 &lt;!-- Content --&gt;                 &lt;a class=&quot;fill-div&quot; href=&quot;#&quot;&gt;&lt;/a&gt;                 &lt;h5 class=&quot;text-uppercase footer-title&quot;&gt;How Can We Help ?&lt;/h5&gt;                 &lt;div class=&quot; pb-2&quot;&gt;                     &lt;a href=&quot;#&quot; class=&quot;text-white footer-link&quot;&gt;Help&lt;/a&gt;                 &lt;/div&gt;                 &lt;div class=&quot; pt-2 pb-2 footer-head&quot;&gt;                     &lt;a href=&quot;#&quot; class=&quot;text-white footer-link&quot;&gt;Contact Us&lt;/a&gt;                 &lt;/div&gt;             &lt;/div&gt;              &lt;!--&lt;hr class=&quot;clearfix w-100 d-md-none pb-1&quot;&gt;--&gt;              &lt;!-- Grid column --&gt;             &lt;div class=&quot;col-md-2 mt-md-0 mt-3 footer-head&quot;&gt;                 &lt;!-- Content --&gt;                 &lt;h5 class=&quot;text-uppercase footer-title&quot;&gt;Join Us&lt;/h5&gt;                 &lt;div class=&quot; pb-2&quot;&gt;                     &lt;a href=&quot;#&quot; class=&quot;text-white footer-link&quot;&gt;Jobs&lt;/a&gt;                 &lt;/div&gt;             &lt;/div&gt;              &lt;!--&lt;hr class=&quot;clearfix w-100 d-md-none pb-1&quot;&gt;--&gt;              &lt;!-- Grid column --&gt;             &lt;div class=&quot;col-md-2 mt-md-0 mt-3 footer-head&quot;&gt;                 &lt;!-- Content --&gt;                 &lt;h5 class=&quot;text-uppercase footer-title&quot;&gt;Important Stuff&lt;/h5&gt;                 &lt;div class=&quot; pb-2&quot;&gt;                     &lt;a href=&quot;#&quot; class=&quot;text-white footer-link&quot;&gt;Privacy Policy&lt;/a&gt;                 &lt;/div&gt;                 &lt;div class=&quot; pt-2 pb-2&quot;&gt;                     &lt;a href=&quot;#&quot; class=&quot;text-white footer-link&quot;&gt;Terms &amp; Conditions&lt;/a&gt;                 &lt;/div&gt;             &lt;/div&gt;             &lt;!-- Grid column --&gt;              &lt;!--&lt;hr class=&quot;clearfix w-100 d-md-none pb-1&quot;&gt;--&gt;              &lt;!-- Grid column --&gt;             &lt;div class=&quot;col-md-3 mb-md-0 mb-3 footer-head&quot; style=&quot;margin-top: 35px&quot;&gt;                 &lt;h5 class=&quot;text-uppercase footer-title&quot;&gt;We Accept These Payment Methods&lt;/h5&gt;                 &lt;img src=&quot;images/payment-options.png&quot; alt=&quot;payment options&quot;&gt;             &lt;/div&gt;              &lt;!-- Grid row --&gt;          &lt;/div&gt;         &lt;!-- Footer Links --&gt;          &lt;!-- Copyright --&gt;         &lt;div class=&quot;footer-copyright text-center py-3 border-top&quot;&gt;© 2018 Copyright : Sarasavi Bookshop (PVT) Ltd         &lt;/div&gt;         &lt;!-- Copyright --&gt;     &lt;/div&gt;  &lt;/footer&gt;</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/common.css" />
+        <option value="$PROJECT_DIR$/css/all.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/billing-details.html" />
+        <option value="$PROJECT_DIR$/book-description.html" />
+        <option value="$PROJECT_DIR$/cart-details.html" />
+        <option value="$PROJECT_DIR$/confirm-order.html" />
+        <option value="$PROJECT_DIR$/gift-vouchers.html" />
+        <option value="$PROJECT_DIR$/order-status.html" />
+        <option value="$PROJECT_DIR$/sarasavi-publications.html" />
+        <option value="$PROJECT_DIR$/shipping-details.html" />
+        <option value="$PROJECT_DIR$/signin-join.html" />
+        <option value="$PROJECT_DIR$/stationary-items.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Thiwanka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thiwanka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thiwanka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thiwanka" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thiwanka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thiwanka" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thiwanka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thiwanka" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5e109dc-1384-4327-92b3-071cdafb1215" name="Default" comment="" />
+      <created>1538540240891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538540240891</updated>
+      <workItem from="1538540243208" duration="28437000" />
+      <workItem from="1538592548618" duration="12000" />
+      <workItem from="1538626640555" duration="9375000" />
+      <workItem from="1538654887912" duration="7187000" />
+      <workItem from="1538896981603" duration="7309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52320000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987715" visible="true" weight="0.24876674" />
+      <window_info id="Structure" order="1" sideWeight="0.5012285" side_tool="true" weight="0.24876674" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32994923" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24876674" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32994923" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/common.css" />
+    <entry file="file://$PROJECT_DIR$/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="1659" column="1" selection-start-line="1659" selection-start-column="1" selection-end-line="1659" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="2" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#1;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#2;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#3;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#4;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#5;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#6;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#7;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#8;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#9;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#10;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#2;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#3;n#div#2;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#1;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#2;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#3;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#0;n#div#2;n#div#2;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#1;n#div#2;n#div#2;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#2;n#div#2;n#div#2;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#3;n#div#2;n#div#2;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#0;n#div#1;n#div#3;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#1;n#div#1;n#div#3;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#2;n#div#1;n#div#3;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#3;n#div#1;n#div#3;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#0;n#div#2;n#div#3;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#1;n#div#2;n#div#3;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#2;n#div#2;n#div#3;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#3;n#div#2;n#div#3;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#5;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#0;n#div#1;n#div#1;n#div#5;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#1;n#div#1;n#div#1;n#div#5;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#2;n#div#1;n#div#1;n#div#5;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#span#3;n#div#1;n#div#1;n#div#5;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/billing-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/confirm-order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gift-vouchers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="152" column="22" lean-forward="true" selection-start-line="152" selection-start-column="22" selection-end-line="152" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-status.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sarasavi-publications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shipping-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signin-join.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stationary-items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
